@@ -22,4 +22,4 @@ This is a React component that displays a list of exercises fetched from an exte
 
 #### API Used
 
-The component fetches data from the [ExerciseDB API](https://exercisedb.p.rapidapi.com/).
+The component fetches data from the [ExerciseDB API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/).
